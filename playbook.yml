@@ -1,0 +1,6 @@
+---
+- name: Create the Security Release for RHEL 8
+  hosts: all
+  become: true
+  roles:
+    - role: RHEL8-CIS

@@ -1,0 +1,396 @@
+rhel8cis_section1: true
+rhel8cis_section2: false
+rhel8cis_section3: false
+rhel8cis_section4: false
+rhel8cis_section5: false
+rhel8cis_section6: false
+
+rhel8cis_rule_1_1_1_1: true
+rhel8cis_rule_1_1_1_2: false
+rhel8cis_rule_1_1_1_3: false
+rhel8cis_rule_1_1_1_4: false
+rhel8cis_rule_1_1_1_5: false
+rhel8cis_rule_1_1_1_6: false
+rhel8cis_rule_1_1_1_7: false
+rhel8cis_rule_1_1_1_8: false
+
+# /tmp
+rhel8cis_rule_1_1_2_1_1: false
+rhel8cis_rule_1_1_2_1_2: false
+rhel8cis_rule_1_1_2_1_3: false
+rhel8cis_rule_1_1_2_1_4: false
+
+# /dev/shm
+rhel8cis_rule_1_1_2_2_1: false
+rhel8cis_rule_1_1_2_2_2: false
+rhel8cis_rule_1_1_2_2_3: false
+rhel8cis_rule_1_1_2_2_4: false
+
+# /home
+rhel8cis_rule_1_1_2_3_1: false
+rhel8cis_rule_1_1_2_3_2: false
+rhel8cis_rule_1_1_2_3_3: false
+
+# /var
+rhel8cis_rule_1_1_2_4_1: false
+rhel8cis_rule_1_1_2_4_2: false
+rhel8cis_rule_1_1_2_4_3: false
+
+# /var/tmp
+rhel8cis_rule_1_1_2_5_1: false
+rhel8cis_rule_1_1_2_5_2: false
+rhel8cis_rule_1_1_2_5_3: false
+rhel8cis_rule_1_1_2_5_4: false
+
+# /var/log
+rhel8cis_rule_1_1_2_6_1: false
+rhel8cis_rule_1_1_2_6_2: false
+rhel8cis_rule_1_1_2_6_3: false
+rhel8cis_rule_1_1_2_6_4: false
+
+# /var/log/audit
+rhel8cis_rule_1_1_2_7_1: false
+rhel8cis_rule_1_1_2_7_2: false
+rhel8cis_rule_1_1_2_7_3: false
+rhel8cis_rule_1_1_2_7_4: false
+
+# DNF - Patching
+rhel8cis_rule_1_2_1: false
+rhel8cis_rule_1_2_2: false
+rhel8cis_rule_1_2_3: false
+rhel8cis_rule_1_2_4: false
+rhel8cis_rule_1_2_5: false
+
+# bootloader grub
+rhel8cis_rule_1_3_1: false
+rhel8cis_rule_1_3_2: false
+
+# kernel sysctl and coredumps
+rhel8cis_rule_1_4_1: false
+rhel8cis_rule_1_4_2: false
+rhel8cis_rule_1_4_3: false
+rhel8cis_rule_1_4_4: false
+
+# SElinux
+rhel8cis_rule_1_5_1_1: false
+rhel8cis_rule_1_5_1_2: false
+rhel8cis_rule_1_5_1_3: false
+rhel8cis_rule_1_5_1_4: false
+rhel8cis_rule_1_5_1_5: false
+rhel8cis_rule_1_5_1_6: false
+rhel8cis_rule_1_5_1_7: false
+rhel8cis_rule_1_5_1_8: false
+
+# Crypto Policies
+rhel8cis_rule_1_6_1: false
+rhel8cis_rule_1_6_2: false
+rhel8cis_rule_1_6_3: false
+rhel8cis_rule_1_6_4: false
+
+# MOTD and messages
+rhel8cis_rule_1_7_1: false
+rhel8cis_rule_1_7_2: false
+rhel8cis_rule_1_7_3: false
+rhel8cis_rule_1_7_4: false
+rhel8cis_rule_1_7_5: false
+rhel8cis_rule_1_7_6: false
+
+# Gnome desktop
+rhel8cis_rule_1_8_1: false
+rhel8cis_rule_1_8_2: false
+rhel8cis_rule_1_8_3: false
+rhel8cis_rule_1_8_4: false
+rhel8cis_rule_1_8_5: false
+rhel8cis_rule_1_8_6: false
+rhel8cis_rule_1_8_7: false
+rhel8cis_rule_1_8_8: false
+rhel8cis_rule_1_8_9: false
+rhel8cis_rule_1_8_10: false
+
+# Section 2 rules
+# time sync
+rhel8cis_rule_2_1_1: false
+rhel8cis_rule_2_1_2: false
+rhel8cis_rule_2_1_3: false
+
+# Server services
+rhel8cis_rule_2_2_1: false
+rhel8cis_rule_2_2_2: false
+rhel8cis_rule_2_2_3: false
+rhel8cis_rule_2_2_4: false
+rhel8cis_rule_2_2_5: false
+rhel8cis_rule_2_2_6: false
+rhel8cis_rule_2_2_7: false
+rhel8cis_rule_2_2_8: false
+rhel8cis_rule_2_2_9: false
+rhel8cis_rule_2_2_10: false
+rhel8cis_rule_2_2_11: false
+rhel8cis_rule_2_2_12: false
+rhel8cis_rule_2_2_13: false
+rhel8cis_rule_2_2_14: false
+rhel8cis_rule_2_2_15: false
+rhel8cis_rule_2_2_16: false
+rhel8cis_rule_2_2_17: false
+rhel8cis_rule_2_2_18: false
+rhel8cis_rule_2_2_19: false
+rhel8cis_rule_2_2_20: false
+rhel8cis_rule_2_2_21: false
+rhel8cis_rule_2_2_22: false
+
+# Client services
+rhel8cis_rule_2_3_1: false
+rhel8cis_rule_2_3_2: false
+rhel8cis_rule_2_3_3: false
+rhel8cis_rule_2_3_4: false
+rhel8cis_rule_2_3_5: false
+
+# Section 3 rules
+# network connectivity wifi/bluetooth/ipv6
+rhel8cis_rule_3_1_1: false
+rhel8cis_rule_3_1_2: false
+rhel8cis_rule_3_1_3: false
+
+# Network Kernel module
+rhel8cis_rule_3_2_1: false
+rhel8cis_rule_3_2_2: false
+rhel8cis_rule_3_2_3: false
+rhel8cis_rule_3_2_4: false
+
+# Network Kernel Params
+rhel8cis_rule_3_3_1: false
+rhel8cis_rule_3_3_2: false
+rhel8cis_rule_3_3_3: false
+rhel8cis_rule_3_3_4: false
+rhel8cis_rule_3_3_5: false
+rhel8cis_rule_3_3_6: false
+rhel8cis_rule_3_3_7: false
+rhel8cis_rule_3_3_8: false
+rhel8cis_rule_3_3_9: false
+rhel8cis_rule_3_3_10: false
+rhel8cis_rule_3_3_11: false
+
+# Firewall
+rhel8cis_rule_3_4_1_1: false
+rhel8cis_rule_3_4_1_2: false
+
+# Firewall rules
+rhel8cis_rule_3_4_2_1: false
+rhel8cis_rule_3_4_2_2: false
+rhel8cis_rule_3_4_2_3: false
+rhel8cis_rule_3_4_2_4: false
+rhel8cis_rule_3_4_2_5: false
+
+##
+## Section 4 rules
+##
+# cron
+rhel8cis_rule_4_1_1_1: false
+rhel8cis_rule_4_1_1_2: false
+rhel8cis_rule_4_1_1_3: false
+rhel8cis_rule_4_1_1_4: false
+rhel8cis_rule_4_1_1_5: false
+rhel8cis_rule_4_1_1_6: false
+rhel8cis_rule_4_1_1_7: false
+rhel8cis_rule_4_1_1_8: false
+
+# at
+rhel8cis_rule_4_1_2_1: false
+
+# sshd
+rhel8cis_rule_4_2_1: false
+rhel8cis_rule_4_2_2: false
+rhel8cis_rule_4_2_3: false
+rhel8cis_rule_4_2_4: false
+rhel8cis_rule_4_2_5: false
+rhel8cis_rule_4_2_6: false
+rhel8cis_rule_4_2_7: false
+rhel8cis_rule_4_2_8: false
+rhel8cis_rule_4_2_9: false
+rhel8cis_rule_4_2_10: false
+rhel8cis_rule_4_2_12: false
+rhel8cis_rule_4_2_11: false
+rhel8cis_rule_4_2_13: false
+rhel8cis_rule_4_2_14: false
+rhel8cis_rule_4_2_15: false
+rhel8cis_rule_4_2_16: false
+rhel8cis_rule_4_2_17: false
+rhel8cis_rule_4_2_18: false
+rhel8cis_rule_4_2_19: false
+rhel8cis_rule_4_2_20: false
+rhel8cis_rule_4_2_21: false
+rhel8cis_rule_4_2_22: false
+
+# sudo
+rhel8cis_rule_4_3_1: false
+rhel8cis_rule_4_3_2: false
+rhel8cis_rule_4_3_3: false
+rhel8cis_rule_4_3_4: false
+rhel8cis_rule_4_3_5: false
+rhel8cis_rule_4_3_6: false
+rhel8cis_rule_4_3_7: false
+
+# Pam software pkgs
+rhel8cis_rule_4_4_1_1: false
+rhel8cis_rule_4_4_1_2: false
+
+# authselect
+rhel8cis_rule_4_4_2_1: false
+rhel8cis_rule_4_4_2_2: false
+rhel8cis_rule_4_4_2_3: false
+rhel8cis_rule_4_4_2_4: false
+rhel8cis_rule_4_4_2_5: false
+
+# pam faillock
+rhel8cis_rule_4_4_3_1_1: false
+rhel8cis_rule_4_4_3_1_2: false
+rhel8cis_rule_4_4_3_1_3: false
+
+# pam pwquality
+rhel8cis_rule_4_4_3_2_1: false
+rhel8cis_rule_4_4_3_2_2: false
+rhel8cis_rule_4_4_3_2_3: false
+rhel8cis_rule_4_4_3_2_4: false
+rhel8cis_rule_4_4_3_2_5: false
+rhel8cis_rule_4_4_3_2_6: false
+rhel8cis_rule_4_4_3_2_7: false
+
+# pam pwhistory
+rhel8cis_rule_4_4_3_3_1: false
+rhel8cis_rule_4_4_3_3_2: false
+rhel8cis_rule_4_4_3_3_3: false
+
+# pam pam_unix
+rhel8cis_rule_4_4_3_4_1: false
+rhel8cis_rule_4_4_3_4_2: false
+rhel8cis_rule_4_4_3_4_3: false
+rhel8cis_rule_4_4_3_4_4: false
+
+# Shadow user settings
+rhel8cis_rule_4_5_1_1: false
+rhel8cis_rule_4_5_1_2: false
+rhel8cis_rule_4_5_1_3: false
+rhel8cis_rule_4_5_1_4: false
+rhel8cis_rule_4_5_1_5: false
+
+# root and sys accts and env
+rhel8cis_rule_4_5_2_1: false
+rhel8cis_rule_4_5_2_2: false
+rhel8cis_rule_4_5_2_3: false
+rhel8cis_rule_4_5_2_4: false
+rhel8cis_rule_4_5_2_5: false
+
+# User enviroment
+rhel8cis_rule_4_5_3_1: false
+rhel8cis_rule_4_5_3_2: false
+rhel8cis_rule_4_5_3_3: false
+
+##
+## Section 5 rules
+##
+
+# Rsyslog
+rhel8cis_rule_5_1_1_1: false
+rhel8cis_rule_5_1_1_2: false
+rhel8cis_rule_5_1_1_3: false
+rhel8cis_rule_5_1_1_4: false
+rhel8cis_rule_5_1_1_5: false
+rhel8cis_rule_5_1_1_6: false
+rhel8cis_rule_5_1_1_7: false
+
+# Journald
+rhel8cis_rule_5_1_2_1_1: false
+rhel8cis_rule_5_1_2_1_2: false
+rhel8cis_rule_5_1_2_1_3: false
+rhel8cis_rule_5_1_2_1_4: false
+rhel8cis_rule_5_1_2_2: false
+rhel8cis_rule_5_1_2_3: false
+rhel8cis_rule_5_1_2_4: false
+rhel8cis_rule_5_1_2_5: false
+rhel8cis_rule_5_1_2_6: false
+rhel8cis_rule_5_1_3: false
+rhel8cis_rule_5_1_4: false
+
+# Auditd
+rhel8cis_rule_5_2_1_1: false
+rhel8cis_rule_5_2_1_2: false
+rhel8cis_rule_5_2_1_3: false
+rhel8cis_rule_5_2_1_4: false
+rhel8cis_rule_5_2_2_1: false
+rhel8cis_rule_5_2_2_2: false
+rhel8cis_rule_5_2_2_3: false
+rhel8cis_rule_5_2_2_4: false
+
+# auditd rules
+rhel8cis_rule_5_2_3_1: false
+rhel8cis_rule_5_2_3_2: false
+rhel8cis_rule_5_2_3_3: false
+rhel8cis_rule_5_2_3_4: false
+rhel8cis_rule_5_2_3_5: false
+rhel8cis_rule_5_2_3_6: false
+rhel8cis_rule_5_2_3_7: false
+rhel8cis_rule_5_2_3_8: false
+rhel8cis_rule_5_2_3_9: false
+rhel8cis_rule_5_2_3_10: false
+rhel8cis_rule_5_2_3_11: false
+rhel8cis_rule_5_2_3_12: false
+rhel8cis_rule_5_2_3_13: false
+rhel8cis_rule_5_2_3_14: false
+rhel8cis_rule_5_2_3_15: false
+rhel8cis_rule_5_2_3_16: false
+rhel8cis_rule_5_2_3_17: false
+rhel8cis_rule_5_2_3_18: false
+rhel8cis_rule_5_2_3_19: false
+rhel8cis_rule_5_2_3_20: false
+rhel8cis_rule_5_2_3_21: false
+
+# auditd log perms
+rhel8cis_rule_5_2_4_1: false
+rhel8cis_rule_5_2_4_2: false
+rhel8cis_rule_5_2_4_3: false
+rhel8cis_rule_5_2_4_4: false
+rhel8cis_rule_5_2_4_5: false
+rhel8cis_rule_5_2_4_6: false
+rhel8cis_rule_5_2_4_7: false
+rhel8cis_rule_5_2_4_8: false
+rhel8cis_rule_5_2_4_9: false
+rhel8cis_rule_5_2_4_10: false
+
+# AIDE
+
+rhel8cis_rule_5_3_1: false
+rhel8cis_rule_5_3_2: false
+rhel8cis_rule_5_3_3: false
+
+##
+## Section 6 rules
+##
+
+# System file perms
+rhel8cis_rule_6_1_1: false
+rhel8cis_rule_6_1_2: false
+rhel8cis_rule_6_1_3: false
+rhel8cis_rule_6_1_4: false
+rhel8cis_rule_6_1_5: false
+rhel8cis_rule_6_1_6: false
+rhel8cis_rule_6_1_7: false
+rhel8cis_rule_6_1_8: false
+rhel8cis_rule_6_1_9: false
+rhel8cis_rule_6_1_10: false
+rhel8cis_rule_6_1_11: false
+rhel8cis_rule_6_1_12: false
+rhel8cis_rule_6_1_13: false
+rhel8cis_rule_6_1_14: false
+
+# local and usergroup
+rhel8cis_rule_6_2_1: false
+rhel8cis_rule_6_2_2: false
+rhel8cis_rule_6_2_3: false
+rhel8cis_rule_6_2_4: false
+rhel8cis_rule_6_2_5: false
+rhel8cis_rule_6_2_6: false
+rhel8cis_rule_6_2_7: false
+rhel8cis_rule_6_2_8: false
+rhel8cis_rule_6_2_9: false
+rhel8cis_rule_6_2_10: false
+rhel8cis_rule_6_2_11: false
+
